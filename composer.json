@@ -1,0 +1,10 @@
+{
+    "require": {
+        "antlr/antlr4-php-runtime": "^0.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "PCRE\\": "./src"
+        }
+    }
+}
