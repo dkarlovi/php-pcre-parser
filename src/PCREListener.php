@@ -1,7 +1,7 @@
 <?php
 
 /*
- * Generated from PCRE.g4 by ANTLR 4.10.1
+ * Generated from PCRE.g4 by ANTLR 4.13.0
  */
 
 namespace PCRE;

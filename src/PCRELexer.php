@@ -1,7 +1,7 @@
 <?php
 
 /*
- * Generated from PCRE.g4 by ANTLR 4.10.1
+ * Generated from PCRE.g4 by ANTLR 4.13.0
  */
 
 namespace PCRE {
@@ -439,7 +439,7 @@ namespace PCRE {
 				return;
 			}
 
-			RuntimeMetaData::checkVersion('4.10.1', RuntimeMetaData::VERSION);
+			RuntimeMetaData::checkVersion('4.13.0', RuntimeMetaData::VERSION);
 
 			$atn = (new ATNDeserializer())->deserialize(self::SERIALIZED_ATN);
 

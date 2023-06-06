@@ -1,6 +1,7 @@
 {
+    
     "require": {
-        "antlr/antlr4-php-runtime": "^0.9"
+        "antlr/antlr4-php-runtime": "dev-master"
     },
     "autoload": {
         "psr-4": {
